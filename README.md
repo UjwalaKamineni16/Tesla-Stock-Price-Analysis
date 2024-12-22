@@ -10,3 +10,6 @@ Parameters: Price, Volume, Returns, and Shares Outstanding.
 Date Range: June 1, 2019 - December 29, 2023.
 Ticker Symbol: TSLA.
 News Headlines: Extracted from Yahoo Finance for sentiment analysis.
+
+
+# The data collected from WRDS account is uploaded in csv format named TeslaStockPricesDaily.csv in this repository
