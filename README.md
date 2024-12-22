@@ -4,6 +4,8 @@
 Predict Stock Price Patterns: Utilize ARIMA models to analyze Tesla's stock price trends and determine predictability.
 Volatility Analysis: Use the GARCH model to assess how volatility influences cumulative returns.
 Sentiment Analysis: Analyze Tesla-related news headlines to understand the influence of market sentiment on short-term price trends.
+
+
 #Data Collection
 Historical Stock Data: Retrieved from the CRSP database via WRDS (Wharton Research Data Services).
 Parameters: Price, Volume, Returns, and Shares Outstanding.
